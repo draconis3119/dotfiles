@@ -16,7 +16,7 @@ antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Sélection du Thème
-antigen theme denysdovhan/spaceship-prompt
+antigen theme spaceship-prompt/spaceship-prompt
 
 # Appliquer l'ensemble des changements
 antigen apply
