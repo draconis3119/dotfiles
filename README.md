@@ -13,16 +13,24 @@
 | :--- | :---- |
 | OS | Archlinux |
 | Bureau | Gnome |
-| Shell | Zsh |
+| Shell | [Zsh](https://github.com/drconis3119/dotfiles#Zsh) |
 | DM | GDM |
-| Editeurs | vim|
+| Editeurs | [vim](https://github.com/draconis3119/dotfiles#vim)|
 
 ## Configurations
 
 ### Vim
 
 Pour configurer vim lancer.
+
 ```vim +PluginInstall +qall```
+
+### Zsh
+
+Installer antigen pour la gestion des plugins.
+
+```curl -L git.io/antigen > .local/share/antigen/antigen.zsh```
+
 
 ## Liens
 [Blog](https://draconis.me) <br />
